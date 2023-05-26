@@ -15,6 +15,6 @@ E rode Flutter run.
 6. Estrutura de Layout
 7. Estilizações
 
-##Preview
+
 ![quizImage](https://github.com/Luizfelippepucca/quizFlutter/assets/52139246/9e5e4b30-4dc7-4109-bedd-b4d88db8f57f)
 
